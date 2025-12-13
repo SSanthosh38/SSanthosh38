@@ -13,10 +13,6 @@
 
 - 🧠 𝐈’𝐦 𝐥𝐨𝐨𝐤𝐢𝐧𝐠 𝐟𝐨𝐫 𝐡𝐞𝐥𝐩 𝐰𝐢𝐭𝐡 **𝐒𝐲𝐬𝐭𝐞𝐦 𝐝𝐞𝐬𝐢𝐠𝐧 𝐚𝐧𝐝 𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐨𝐩𝐭𝐢𝐦𝐢𝐳𝐚𝐭𝐢𝐨𝐧**
 
-- 👨‍💻 All of my projects are available at [esrdyguhijkl;](esrdyguhijkl;)
-
-- 📝 I regularly write articles on [dsfghjk](dsfghjk)
-
 - 💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭 **𝐌𝐄𝐑𝐍 𝐬𝐭𝐚𝐜𝐤 𝐚𝐧𝐝 𝐑𝐄𝐒𝐓 𝐀𝐏𝐈𝐬**
 
 - 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞 **𝐤𝐯𝐬𝐬𝐚𝐧𝐭𝐡𝐨𝐬𝐡𝟐𝟏@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦**
