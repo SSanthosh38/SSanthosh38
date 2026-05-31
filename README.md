@@ -1,140 +1,118 @@
-<div align="center">
+<h1 align="center">Hey 👋 I'm Santhosh S</h1>
 
-# SANthosh S
+<h3 align="center">
+Full Stack Developer • MERN Stack • Cloud Enthusiast
+</h3>
 
-### Full Stack Engineer • MERN Stack • Cloud & Scalable Systems
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Engineer;Building+Scalable+Applications;Open+Source+Contributor" />
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ssanthosh38&style=for-the-badge)
-
-</div>
+<p align="center">
+Building scalable web applications and solving real-world problems through code.
+</p>
 
 ---
 
-# About Me
+## 🚀 About Me
 
-```javascript
-const santhosh = {
-  role: "Full Stack Developer",
-  stack: ["MongoDB", "Express", "React", "Node.js"],
-  learning: ["System Design", "Docker", "Next.js"],
-  focus: "Scalable Applications",
-  location: "India"
-};
-```
+💻 Passionate Full Stack Developer specializing in the MERN Stack
 
-- 🚀 Building scalable web applications
-- 📚 Learning advanced system design
-- 🤝 Open to collaborations
-- ⚡ Passionate about backend architecture
+🌱 Currently learning:
+- System Design
+- Docker & Kubernetes
+- Next.js
+- AWS Cloud Services
 
----
+🤝 Open to:
+- Freelance Projects
+- Open Source Contributions
+- Full Stack Development Opportunities
 
-# Tech Stack
-
-## Frontend
-
-![React](https://skillicons.dev/icons?i=react)
-![NextJS](https://skillicons.dev/icons?i=nextjs)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-
-## Backend
-
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-
-## Databases
-
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Postgres](https://skillicons.dev/icons?i=postgres)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-
-## Cloud & DevOps
-
-![AWS](https://skillicons.dev/icons?i=aws)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
-![Linux](https://skillicons.dev/icons?i=linux)
+🎯 Goal:
+Build high-performance scalable applications used by thousands of users.
 
 ---
 
-# Featured Projects
+## 🛠 Tech Stack
 
-## Project 1
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
-Description of your best MERN project.
+### Backend
+![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 
-### Features
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
-- Authentication
-- Dashboard
-- API Integration
-- Responsive Design
-
-### Tech
-
-React • Node.js • MongoDB
-
----
-
-## Project 2
-
-Description of another project.
-
-### Features
-
-- Real-time updates
-- Admin Panel
-- REST APIs
-
-### Tech
-
-MERN Stack
+### Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ---
 
-## Project 3
+## 🌟 Featured Projects
 
-Description of a scalable application.
+### 🛒 E-Commerce Platform
+Full-featured MERN stack application with authentication, payments, and admin dashboard.
 
----
+### 💬 Real-Time Chat Application
+Socket.IO based messaging platform with real-time communication.
 
-# GitHub Stats
+### 📚 Learning Management System
+Course management platform with secure authentication and user dashboards.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ssanthosh38&show_icons=true&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssanthosh38&layout=compact&theme=tokyonight)
-
----
-
-# Achievements
-
-- Built Full Stack Applications
-- Learning System Design
-- Open Source Contributor
+### 📊 Analytics Dashboard
+Data visualization and reporting platform for business insights.
 
 ---
 
-# Goals 2026
+## 📈 GitHub Analytics
 
-- Master System Design
-- Build SaaS Products
-- Improve Cloud Skills
-- Contribute More to Open Source
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ssanthosh38&show_icons=true&theme=tokyonight" />
 
----
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssanthosh38&layout=compact&theme=tokyonight" />
+</p>
 
-# Contact
-
-- LinkedIn: YOUR_LINKEDIN
-- Portfolio: YOUR_PORTFOLIO
-- Email: YOUR_EMAIL
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ssanthosh38&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ Building products, not just projects.
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ssanthosh38&theme=algolia&margin-w=15"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/santhosh-s">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:kvssanthosh21@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://instagram.com/cheer_fuul_guy">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+⭐ If you like my work, consider giving a star to my repositories.
+</p>
