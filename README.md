@@ -1,49 +1,140 @@
-# Hi 👋 I'm Santhosh S
+<div align="center">
 
-### Full Stack Developer | MERN Stack | Building Scalable Web Applications
+# SANthosh S
 
----
+### Full Stack Engineer • MERN Stack • Cloud & Scalable Systems
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Engineer;Building+Scalable+Applications;Open+Source+Contributor" />
 
-- 🔭 Building scalable MERN applications
-- 🌱 Learning System Design, Docker & Next.js
-- 👯 Open to collaborate on Full Stack Projects
-- 💬 Ask me about MERN Stack & REST APIs
-- ⚡ Love building scalable products
+<br>
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=ssanthosh38&style=for-the-badge)
 
-## 🛠 Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,postgres,aws,docker,git,github,linux,figma,vscode" />
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssanthosh38&show_icons=true&theme=tokyonight)
+```javascript
+const santhosh = {
+  role: "Full Stack Developer",
+  stack: ["MongoDB", "Express", "React", "Node.js"],
+  learning: ["System Design", "Docker", "Next.js"],
+  focus: "Scalable Applications",
+  location: "India"
+};
+```
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssanthosh38&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=ssanthosh38&theme=algolia)
-
----
-
-## 🌐 Connect With Me
-
-[LinkedIn](YOUR_LINKEDIN_URL)
-
-[Instagram](YOUR_INSTAGRAM_URL)
-
-📧 kvssanthosh21@gmail.com
+- 🚀 Building scalable web applications
+- 📚 Learning advanced system design
+- 🤝 Open to collaborations
+- ⚡ Passionate about backend architecture
 
 ---
 
-⭐ Building Products, Not Just Projects
+# Tech Stack
+
+## Frontend
+
+![React](https://skillicons.dev/icons?i=react)
+![NextJS](https://skillicons.dev/icons?i=nextjs)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+
+## Backend
+
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+
+## Databases
+
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Postgres](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+## Cloud & DevOps
+
+![AWS](https://skillicons.dev/icons?i=aws)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![Linux](https://skillicons.dev/icons?i=linux)
+
+---
+
+# Featured Projects
+
+## Project 1
+
+Description of your best MERN project.
+
+### Features
+
+- Authentication
+- Dashboard
+- API Integration
+- Responsive Design
+
+### Tech
+
+React • Node.js • MongoDB
+
+---
+
+## Project 2
+
+Description of another project.
+
+### Features
+
+- Real-time updates
+- Admin Panel
+- REST APIs
+
+### Tech
+
+MERN Stack
+
+---
+
+## Project 3
+
+Description of a scalable application.
+
+---
+
+# GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ssanthosh38&show_icons=true&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssanthosh38&layout=compact&theme=tokyonight)
+
+---
+
+# Achievements
+
+- Built Full Stack Applications
+- Learning System Design
+- Open Source Contributor
+
+---
+
+# Goals 2026
+
+- Master System Design
+- Build SaaS Products
+- Improve Cloud Skills
+- Contribute More to Open Source
+
+---
+
+# Contact
+
+- LinkedIn: YOUR_LINKEDIN
+- Portfolio: YOUR_PORTFOLIO
+- Email: YOUR_EMAIL
+
+---
+
+⭐ Building products, not just projects.
