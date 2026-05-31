@@ -1,220 +1,140 @@
-import React from "react";
+<div align="center">
 
-export default function App() {
-  const projects = [
-    { title: "New Web App", progress: 85 },
-    { title: "Mobile App UI", progress: 40 },
-    { title: "API Integration", progress: 60 },
-    { title: "Admin Dashboard", progress: 90 },
-  ];
+# SANthosh S
 
-  const snippets = [
-    "React Hook Example",
-    "Python Data Script",
-    "Tailwind Component",
-    "GitHub Snippet",
-  ];
+### Full Stack Engineer • MERN Stack • Cloud & Scalable Systems
 
-  return (
-    <div className="min-h-screen bg-slate-100 p-6 font-sans">
-      {/* HERO */}
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Engineer;Building+Scalable+Applications;Open+Source+Contributor" />
 
-      <div className="relative overflow-hidden rounded-3xl shadow-2xl">
-        <img
-          src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1600&q=80"
-          alt=""
-          className="h-[320px] w-full object-cover"
-        />
+<br>
 
-        <div className="absolute inset-0 bg-slate-950/70"></div>
+![Profile Views](https://komarev.com/ghpvc/?username=ssanthosh38&style=for-the-badge)
 
-        <div className="absolute inset-0 flex flex-col justify-center px-10">
-          <h1 className="text-5xl font-bold text-white">
-            DEVELOPER PRODUCTIVITY HUB
-          </h1>
+</div>
 
-          <p className="mt-4 text-slate-300 text-lg">
-            Full Stack Workspace • MERN • System Design • Cloud
-          </p>
+---
 
-          <div className="mt-6 flex gap-3">
-            <span className="rounded-full bg-blue-500 px-4 py-2 text-white">
-              React
-            </span>
+# About Me
 
-            <span className="rounded-full bg-slate-800 px-4 py-2 text-white">
-              Node.js
-            </span>
+```javascript
+const santhosh = {
+  role: "Full Stack Developer",
+  stack: ["MongoDB", "Express", "React", "Node.js"],
+  learning: ["System Design", "Docker", "Next.js"],
+  focus: "Scalable Applications",
+  location: "India"
+};
+```
 
-            <span className="rounded-full bg-slate-800 px-4 py-2 text-white">
-              MongoDB
-            </span>
-          </div>
-        </div>
-      </div>
+- 🚀 Building scalable web applications
+- 📚 Learning advanced system design
+- 🤝 Open to collaborations
+- ⚡ Passionate about backend architecture
 
-      {/* TITLE */}
+---
 
-      <div className="mt-8 rounded-3xl bg-white p-8 shadow-lg">
-        <h2 className="text-4xl font-black text-slate-800">
-          SANthosh S
-        </h2>
+# Tech Stack
 
-        <p className="mt-2 text-slate-500">
-          Full Stack Developer • Building Scalable Applications
-        </p>
-      </div>
+## Frontend
 
-      {/* ACTIVE PROJECTS */}
+![React](https://skillicons.dev/icons?i=react)
+![NextJS](https://skillicons.dev/icons?i=nextjs)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
-      <div className="mt-8">
-        <h2 className="mb-5 text-2xl font-bold text-slate-800">
-          🚀 Active Projects
-        </h2>
+## Backend
 
-        <div className="grid gap-5 md:grid-cols-4">
-          {projects.map((project) => (
-            <div
-              key={project.title}
-              className="overflow-hidden rounded-3xl bg-white shadow-lg transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl"
-            >
-              <div className="h-36 bg-gradient-to-r from-slate-900 to-blue-900"></div>
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
 
-              <div className="p-5">
-                <h3 className="font-bold text-slate-800">
-                  {project.title}
-                </h3>
+## Databases
 
-                <p className="mt-2 text-sm text-slate-500">
-                  Progress {project.progress}%
-                </p>
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Postgres](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
-                <div className="mt-3 h-3 rounded-full bg-slate-200">
-                  <div
-                    className="h-3 rounded-full bg-blue-500"
-                    style={{
-                      width: `${project.progress}%`,
-                    }}
-                  />
-                </div>
-              </div>
-            </div>
-          ))}
-        </div>
-      </div>
+## Cloud & DevOps
 
-      {/* DAILY STANDUP */}
+![AWS](https://skillicons.dev/icons?i=aws)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![Linux](https://skillicons.dev/icons?i=linux)
 
-      <div className="mt-8">
-        <h2 className="mb-5 text-2xl font-bold text-slate-800">
-          📋 Daily Standup
-        </h2>
+---
 
-        <div className="grid gap-4 md:grid-cols-4">
-          <div className="rounded-3xl bg-white p-6 shadow-lg">
-            <h3 className="font-bold">Today's Focus</h3>
+# Featured Projects
 
-            <ul className="mt-3 text-slate-600">
-              <li>✔ Dashboard UI</li>
-              <li>✔ API Integration</li>
-              <li>✔ Bug Fixes</li>
-            </ul>
-          </div>
+## Project 1
 
-          <div className="rounded-3xl bg-white p-6 shadow-lg">
-            <h3 className="font-bold">Completed</h3>
+Description of your best MERN project.
 
-            <ul className="mt-3 text-slate-600">
-              <li>✔ Authentication</li>
-              <li>✔ Database Setup</li>
-            </ul>
-          </div>
+### Features
 
-          <div className="rounded-3xl bg-white p-6 shadow-lg">
-            <h3 className="font-bold">Blockers</h3>
+- Authentication
+- Dashboard
+- API Integration
+- Responsive Design
 
-            <ul className="mt-3 text-slate-600">
-              <li>⚠ AWS Deployment</li>
-            </ul>
-          </div>
+### Tech
 
-          <div className="rounded-3xl bg-white p-6 shadow-lg">
-            <h3 className="font-bold">Next Steps</h3>
+React • Node.js • MongoDB
 
-            <ul className="mt-3 text-slate-600">
-              <li>➡ CI/CD</li>
-              <li>➡ Docker</li>
-            </ul>
-          </div>
-        </div>
-      </div>
+---
 
-      {/* SNIPPETS */}
+## Project 2
 
-      <div className="mt-8">
-        <h2 className="mb-5 text-2xl font-bold text-slate-800">
-          💻 Code Snippet Library
-        </h2>
+Description of another project.
 
-        <div className="grid gap-5 md:grid-cols-4">
-          {snippets.map((snippet) => (
-            <div
-              key={snippet}
-              className="rounded-3xl bg-white p-6 shadow-lg transition-all hover:-translate-y-2 hover:shadow-2xl"
-            >
-              <div className="mb-4 h-16 rounded-2xl bg-slate-100"></div>
+### Features
 
-              <h3 className="font-semibold text-slate-800">
-                {snippet}
-              </h3>
-            </div>
-          ))}
-        </div>
-      </div>
+- Real-time updates
+- Admin Panel
+- REST APIs
 
-      {/* RESOURCES */}
+### Tech
 
-      <div className="mt-8 grid gap-6 md:grid-cols-2">
-        <div className="rounded-3xl bg-white p-6 shadow-lg">
-          <h2 className="mb-4 text-xl font-bold">
-            📚 Learning Resources
-          </h2>
+MERN Stack
 
-          <ul className="space-y-2 text-slate-600">
-            <li>• System Design Docs</li>
-            <li>• AWS Best Practices</li>
-            <li>• Docker Handbook</li>
-            <li>• React Patterns</li>
-            <li>• Node.js Scaling</li>
-          </ul>
-        </div>
+---
 
-        <div className="rounded-3xl bg-white p-6 shadow-lg">
-          <h2 className="mb-4 text-xl font-bold">
-            📈 GitHub Activity
-          </h2>
+## Project 3
 
-          <ul className="space-y-2 text-slate-600">
-            <li>Updated README.md</li>
-            <li>Merged Feature Branch</li>
-            <li>Fixed Authentication</li>
-            <li>Added Dashboard UI</li>
-            <li>Optimized API Routes</li>
-          </ul>
-        </div>
-      </div>
+Description of a scalable application.
 
-      {/* FOOTER */}
+---
 
-      <div className="mt-10 rounded-3xl bg-slate-900 p-8 text-center text-white shadow-2xl">
-        <h2 className="text-3xl font-bold">
-          Building Products, Not Just Projects
-        </h2>
+# GitHub Stats
 
-        <p className="mt-3 text-slate-400">
-          MERN • Cloud • System Design • Open Source
-        </p>
-      </div>
-    </div>
-  );
-}
+![Stats](https://github-readme-stats.vercel.app/api?username=ssanthosh38&show_icons=true&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssanthosh38&layout=compact&theme=tokyonight)
+
+---
+
+# Achievements
+
+- Built Full Stack Applications
+- Learning System Design
+- Open Source Contributor
+
+---
+
+# Goals 2026
+
+- Master System Design
+- Build SaaS Products
+- Improve Cloud Skills
+- Contribute More to Open Source
+
+---
+
+# Contact
+
+- LinkedIn: YOUR_LINKEDIN
+- Portfolio: YOUR_PORTFOLIO
+- Email: YOUR_EMAIL
+
+---
+
+⭐ Building products, not just projects.
