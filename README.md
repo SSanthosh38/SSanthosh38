@@ -1,33 +1,123 @@
-<h1 align="center">𝐇𝐢 👋, 𝐈'𝐦 𝐬𝐚𝐧𝐭𝐡𝐨𝐬𝐡 𝐬</h1>
-<h3 align="center">𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 | 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐬𝐜𝐚𝐥𝐚𝐛𝐥𝐞 𝐰𝐞𝐛 𝐚𝐩𝐩𝐬</h3>
+<h1 align="center">Hi 👋, I'm Santhosh S</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ssanthosh38&label=Profile%20views&color=0e75b6&style=flat" alt="ssanthosh38" /> </p>
+<h3 align="center">
+Full Stack Developer | MERN Stack | Building Scalable Web Applications 🚀
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssanthosh38" alt="ssanthosh38" /></a> </p>
-
-- 🚀 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 **𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐬𝐜𝐚𝐥𝐚𝐛𝐥𝐞 𝐌𝐄𝐑𝐍 𝐬𝐭𝐚𝐜𝐤 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬**
-
-- 📚 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 **𝐒𝐲𝐬𝐭𝐞𝐦 𝐝𝐞𝐬𝐢𝐠𝐧, 𝐃𝐨𝐜𝐤𝐞𝐫, 𝐚𝐧𝐝 𝐍𝐞𝐱𝐭.𝐣𝐬**
-
-- 🤝 𝐈’𝐦 𝐥𝐨𝐨𝐤𝐢𝐧𝐠 𝐭𝐨 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐞 𝐨𝐧 [𝐑𝐞𝐚𝐥-𝐰𝐨𝐫𝐥𝐝 𝐟𝐮𝐥𝐥 𝐬𝐭𝐚𝐜𝐤 𝐚𝐧𝐝 𝐨𝐩𝐞𝐧-𝐬𝐨𝐮𝐫𝐜𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬](kl;)
-
-- 🧠 𝐈’𝐦 𝐥𝐨𝐨𝐤𝐢𝐧𝐠 𝐟𝐨𝐫 𝐡𝐞𝐥𝐩 𝐰𝐢𝐭𝐡 **𝐒𝐲𝐬𝐭𝐞𝐦 𝐝𝐞𝐬𝐢𝐠𝐧 𝐚𝐧𝐝 𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐨𝐩𝐭𝐢𝐦𝐢𝐳𝐚𝐭𝐢𝐨𝐧**
-
-- 💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭 **𝐌𝐄𝐑𝐍 𝐬𝐭𝐚𝐜𝐤 𝐚𝐧𝐝 𝐑𝐄𝐒𝐓 𝐀𝐏𝐈𝐬**
-
-- 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞 **𝐤𝐯𝐬𝐬𝐚𝐧𝐭𝐡𝐨𝐬𝐡𝟐𝟏@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦**
-
-- 😄 𝐅𝐮𝐧 𝐟𝐚𝐜𝐭 **𝐈 𝐥𝐨𝐯𝐞 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐬𝐜𝐚𝐥𝐚𝐛𝐥𝐞 𝐰𝐞𝐛 𝐚𝐩𝐩𝐬**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/𝐒𝐚𝐧𝐭𝐡𝐨𝐬𝐡 𝐬" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="𝐒𝐚𝐧𝐭𝐡𝐨𝐬𝐡 𝐬" height="30" width="40" /></a>
-<a href="https://instagram.com/𝐜𝐡𝐞𝐞𝐫_𝐟𝐮𝐥_𝐠𝐮𝐲" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="𝐜𝐡𝐞𝐞𝐫_𝐟𝐮𝐥_𝐠𝐮𝐲" height="30" width="40" /></a>
+<p align="center">
+Passionate about creating modern, scalable, and user-friendly web applications.
+Currently exploring System Design, Docker, Cloud Technologies, and Next.js.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssanthosh38&show_icons=true&locale=en&layout=compact" alt="ssanthosh38" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ssanthosh38&show_icons=true&locale=en" alt="ssanthosh38" /></p>
+- 🚀 Building scalable MERN stack applications
+- 📚 Learning System Design, Docker, AWS, and Next.js
+- 🤝 Open to collaborating on Full Stack & Open Source Projects
+- 🧠 Exploring performance optimization and scalable architectures
+- 💬 Ask me about MERN Stack, REST APIs, and Web Development
+- 📫 Reach me at: **kvssanthosh21@gmail.com**
+- ⚡ Fun Fact: I enjoy turning ideas into real-world products
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Cloud
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 E-Commerce Platform
+- Full Stack MERN Application
+- JWT Authentication
+- Payment Gateway Integration
+- Admin Dashboard
+
+### 💬 Real-Time Chat Application
+- Socket.io Integration
+- Real-Time Messaging
+- User Authentication
+- Responsive UI
+
+### 📋 Task Management System
+- CRUD Operations
+- Team Collaboration Features
+- Secure Authentication
+- Dashboard Analytics
+
+> Replace these with your actual project names and GitHub links.
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ssanthosh38&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssanthosh38&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssanthosh38&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- System Design
+- Docker & Containerization
+- Next.js
+- AWS Cloud Services
+- Scalable Architecture Patterns
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+
+<a href="mailto:kvssanthosh21@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+</p>
+
+---
+
+<h3 align="center">
+⭐ If you like my work, consider giving a star to my repositories!
+</h3>
