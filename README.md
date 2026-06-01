@@ -1,126 +1,97 @@
-<div align="center">
+# 👋 Hi, I'm Santhosh S
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,25:0F172A,50:1E293B,75:0EA5E9,100:38BDF8&text=Santhosh%20S&fontColor=ffffff&fontSize=70&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20MERN%20Engineer%20•%20Building%20Scalable%20Products&descAlignY=58"/>
+### Full Stack Developer | MERN Stack Developer | Building Scalable Web Applications
 
-# 👨‍💻 SANthosh S
-
-### Full Stack Developer • MERN Stack Engineer • System Design Learner
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Applications;MERN+Stack+Developer;Learning+System+Design;Docker+%7C+AWS+%7C+Next.js;Always+Building+Something+Awesome" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=ssanthosh38&style=for-the-badge&color=38BDF8"/>
-
-<img src="https://img.shields.io/github/followers/ssanthosh38?style=for-the-badge&logo=github&color=38BDF8"/>
-
-<img src="https://img.shields.io/github/stars/ssanthosh38?style=for-the-badge&logo=github&color=38BDF8"/>
-
-</div>
+I am a passionate Full Stack Developer focused on creating scalable, modern, and high-performance web applications using the MERN Stack. Currently exploring System Design, Docker, Cloud Computing, and Next.js to build production-ready applications.
 
 ---
 
-## ⚡ About Me
+# 💻 Programming Languages & Tools
 
-```javascript
-const santhosh = {
-  role: "Full Stack Developer",
-  stack: ["MongoDB", "Express", "React", "Node.js"],
-  learning: ["System Design", "Docker", "AWS", "Next.js"],
-  interests: [
-    "Scalable Architecture",
-    "Cloud Computing",
-    "Performance Optimization"
-  ],
-  mission: "Build products used by millions"
-};
-```
-
----
-
-<div align="center">
-
-# 🛠 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,aws,git,github,linux,figma&theme=dark"/>
-
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
 
 ---
 
-<div align="center">
+# 🚀 Current Focus
 
-# 📊 GitHub Analytics
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ssanthosh38&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ssanthosh38&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssanthosh38&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
+- System Design
+- Docker & Containerization
+- AWS Cloud Services
+- Next.js
+- Scalable Architectures
+- Performance Optimization
 
 ---
 
-<div align="center">
+# 📊 GitHub Stats
 
-# 🚀 Featured Projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ssanthosh38&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
 
-| Project | Tech |
-|----------|------|
-| 🛒 E-Commerce Platform | MERN |
-| 💬 Real-Time Chat App | Socket.io |
-| 📋 Task Manager | MERN |
-| 🌐 Portfolio Website | React |
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssanthosh38&theme=github-dark-blue&hide_border=true" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssanthosh38&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
-
-<div align="center">
 
 # 📈 Contribution Graph
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ssanthosh38&theme=github-compact&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssanthosh38&theme=github-compact&hide_border=true" />
+</p>
 
 ---
 
-<div align="center">
+# 🏆 Featured Projects
+
+### 🛒 E-Commerce Platform
+- MERN Stack
+- JWT Authentication
+- Admin Dashboard
+- Payment Integration
+
+### 💬 Real-Time Chat Application
+- Socket.io
+- Real-Time Messaging
+- Authentication System
+
+### 📋 Task Management Application
+- CRUD Operations
+- Team Collaboration
+- Analytics Dashboard
+
+---
 
 # 🌐 Connect With Me
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
 
-<a href="mailto:kvssanthosh21@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/YOUR_INSTAGRAM)
 
-<a href="https://github.com/ssanthosh38">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail)](mailto:kvssanthosh21@gmail.com)
 
 ---
 
-<div align="center">
+# 💎 Quote
 
-## 💎 Code • Build • Scale • Repeat
+> "Code. Build. Scale. Repeat."
 
-*"Turning ideas into scalable digital experiences."*
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,25:0F172A,50:1E293B,75:0EA5E9,100:38BDF8"/>
+⭐ Thanks for visiting my profile.
