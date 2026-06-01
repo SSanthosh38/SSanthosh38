@@ -1,43 +1,48 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000814,25:001D3D,50:003566,75:0077B6,100:00B4D8&text=Santhosh%20S&fontColor=ffffff&fontSize=60&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20MERN%20Engineer%20%7C%20System%20Design&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000814,25:001D3D,50:003566,75:0077B6,100:00B4D8&text=Santhosh%20S&fontColor=ffffff&fontSize=65&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20MERN%20Engineer%20•%20System%20Design%20Learner&descAlignY=58"/>
 
-</div>
+# 👨‍💻 Santhosh S
 
-<div align="center">
+### Full Stack Developer • MERN Stack • Building Scalable Applications
 
-# ⚡ 𝐒𝐀𝐍𝐓𝐇𝐎𝐒𝐇 𝐒
-
-### 「 Full Stack Developer • MERN Engineer • Scalable Systems Builder 」
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;Learning+System+Design+and+Cloud;Docker+%7C+AWS+%7C+Next.js;Always+Building+Something+Awesome" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;MERN+Stack+Engineer;Building+Scalable+Web+Applications;Learning+System+Design+%26+Cloud;Docker+%7C+AWS+%7C+Next.js;Code+Build+Scale+Repeat" />
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=ssanthosh38&style=for-the-badge&color=00B4D8"/>
 
-<img src="https://img.shields.io/github/followers/ssanthosh38?style=for-the-badge&color=00B4D8"/>
+<img src="https://img.shields.io/github/followers/ssanthosh38?style=for-the-badge&logo=github&color=00B4D8"/>
 
-<img src="https://img.shields.io/github/stars/ssanthosh38?style=for-the-badge&color=00B4D8"/>
+<img src="https://img.shields.io/github/stars/ssanthosh38?style=for-the-badge&logo=github&color=00B4D8"/>
 
 </div>
 
 ---
 
-# 🧑‍💻 About Me
+<div align="center">
+
+# ⚡ About Me
+
+</div>
 
 ```javascript
 const santhosh = {
-    role: "Full Stack Developer",
-    stack: ["MongoDB","Express","React","Node.js"],
-    learning: ["System Design","Docker","AWS","Next.js"],
-    interests: [
-        "Scalable Systems",
-        "Cloud Computing",
-        "Performance Optimization",
-        "Modern Web Applications"
-    ],
-    mission: "Build products that impact millions"
+  role: "Full Stack Developer",
+  specialization: "MERN Stack",
+  currentlyLearning: [
+    "System Design",
+    "Docker",
+    "AWS",
+    "Next.js"
+  ],
+  interests: [
+    "Scalable Architecture",
+    "Cloud Computing",
+    "Performance Optimization",
+    "Modern Web Development"
+  ],
+  mission: "Build impactful products used by millions"
 };
 ```
 
@@ -45,9 +50,27 @@ const santhosh = {
 
 <div align="center">
 
-# ⚒️ Tech Arsenal
+# 🛠 Tech Arsenal
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,aws,git,linux,figma&theme=dark"/>
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+
+### DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github"/>
+
+### Design Tools
+
+<img src="https://skillicons.dev/icons?i=figma"/>
 
 </div>
 
@@ -61,61 +84,45 @@ const santhosh = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" align="center">
 
 ### 🛒 E-Commerce Platform
 
-✔ JWT Authentication
+Full Stack MERN Store
 
-✔ Payment Gateway
+JWT Authentication
 
-✔ Admin Dashboard
+Payment Integration
 
-✔ MERN Stack
+Admin Dashboard
+
+</td>
+
+<td width="33%" align="center">
+
+### 💬 Real-Time Chat App
+
+Socket.io
+
+Live Messaging
+
+User Authentication
+
+Responsive UI
 
 </td>
 
-<td width="50%">
-
-### 💬 Real Time Chat App
-
-✔ Socket.io
-
-✔ Real Time Messaging
-
-✔ Authentication
-
-✔ MongoDB
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+<td width="33%" align="center">
 
 ### 📋 Task Manager
 
-✔ Team Collaboration
+CRUD Operations
 
-✔ CRUD Operations
+Team Collaboration
 
-✔ Dashboard Analytics
+Analytics Dashboard
 
-✔ MERN Stack
-
-</td>
-
-<td width="50%">
-
-### 🌐 Portfolio Website
-
-✔ Responsive Design
-
-✔ Modern UI
-
-✔ Fast Performance
-
-✔ React
+MERN Stack
 
 </td>
 </tr>
@@ -137,7 +144,7 @@ const santhosh = {
 
 <div align="center">
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssanthosh38&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssanthosh38&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -147,13 +154,13 @@ const santhosh = {
 
 # 🏆 Achievements
 
-🥇 Full Stack Projects
+🚀 MERN Stack Projects
 
-🚀 MERN Applications
+💡 Open Source Enthusiast
 
-💡 Open Source Contributions
+⚡ Continuous Learner
 
-⚡ Continuous Learning
+🎯 Problem Solver
 
 </div>
 
@@ -163,14 +170,16 @@ const santhosh = {
 
 # 🌱 Current Focus
 
-```text
-System Design
-Docker & Kubernetes
-AWS Cloud
-Next.js
-Scalable Architecture
-Microservices
-```
+</div>
+
+<div align="center">
+
+| Learning | Exploring |
+|-----------|-----------|
+| System Design | Scalable Architecture |
+| Docker | Containerization |
+| AWS | Cloud Services |
+| Next.js | Modern Full Stack Apps |
 
 </div>
 
@@ -178,9 +187,9 @@ Microservices
 
 <div align="center">
 
-# 🐍 Contribution Snake
+# 📈 Contribution Activity
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ssanthosh38&theme=github-compact&hide_border=true"/>
 
 </div>
 
@@ -214,8 +223,8 @@ Microservices
 
 ## 💎 Code • Build • Scale • Repeat
 
-*"Great products are built one commit at a time."*
+*"Turning ideas into scalable digital experiences."*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000814,25:001D3D,50:003566,75:0077B6,100:00B4D8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000814,25:001D3D,50:003566,75:0077B6,100:00B4D8"/>
