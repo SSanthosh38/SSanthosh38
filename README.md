@@ -1,81 +1,73 @@
 <div align="center">
 
-<!-- Light Premium Banner -->
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=170&text=SANthosh%20S&fontSize=42&fontColor=111827&color=F5F7FA&animation=fadeIn"
-  width="100%"
-  alt="Santhosh S Banner"
-/>
-
 <br>
 
 <img
   src="./assets/profile.png"
-  width="125"
-  height="125"
+  width="120"
+  height="120"
   alt="Santhosh S"
-  style="border-radius:50%;"
-/>
+>
 
-<br>
+<br><br>
 
-# Santhosh S
-
-### Full-Stack Developer
+<h1>Santhosh S</h1>
 
 <p>
-Building modern <strong>Web Apps · SaaS · Digital Products</strong>
+  <strong>Full-Stack Developer</strong>
+</p>
+
+<p>
+  Building modern <strong>Web Apps · SaaS · Digital Products</strong>
 </p>
 
 <br>
 
-<!-- Round Social Icons -->
-
 <a href="https://www.linkedin.com/in/santhosh-merndeveloper/">
-<img
-  src="https://cdn.simpleicons.org/linkedin/0A66C2"
-  width="42"
-  height="42"
-  alt="LinkedIn"
-/>
+  <img
+    src="https://cdn.simpleicons.org/linkedin/0A66C2"
+    width="40"
+    height="40"
+    alt="LinkedIn"
+  >
 </a>
+
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/SSanthosh38">
-<img
-  src="https://cdn.simpleicons.org/github/181717"
-  width="42"
-  height="42"
-  alt="GitHub"
-/>
+  <img
+    src="https://cdn.simpleicons.org/github/181717"
+    width="40"
+    height="40"
+    alt="GitHub"
+  >
 </a>
+
 &nbsp;&nbsp;&nbsp;
 
 <a href="mailto:kvssanthosh21@gmail.com">
-<img
-  src="https://cdn.simpleicons.org/gmail/EA4335"
-  width="42"
-  height="42"
-  alt="Email"
-/>
+  <img
+    src="https://cdn.simpleicons.org/gmail/EA4335"
+    width="40"
+    height="40"
+    alt="Email"
+  >
 </a>
+
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/webnovas/">
-<img
-  src="https://cdn.simpleicons.org/instagram/E4405F"
-  width="42"
-  height="42"
-  alt="Instagram"
-/>
+  <img
+    src="https://cdn.simpleicons.org/instagram/E4405F"
+    width="40"
+    height="40"
+    alt="Instagram"
+  >
 </a>
 
 <br><br>
 
-<sub>
-📍 Chennai, India &nbsp; · &nbsp; Available for Freelance
-</sub>
+<sub>Chennai, India · Available for Freelance Projects</sub>
 
 <br><br>
 
@@ -96,7 +88,10 @@ clean, reliable and scalable digital products.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,aws,gcp,linux,git,github,figma">
+<img
+  src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,aws,gcp,linux,git,github,figma"
+  alt="Tech Stack"
+>
 
 </div>
 
@@ -104,9 +99,11 @@ clean, reliable and scalable digital products.
 
 ## Currently
 
-**Building:** `MERN` · `Next.js` · `Node.js` · `MongoDB`
+**Building**  
+`MERN` · `Next.js` · `Node.js` · `MongoDB`
 
-**Learning:** `System Design` · `Docker` · `Cloud`
+**Learning**  
+`System Design` · `Docker` · `Cloud`
 
 ---
 
@@ -116,43 +113,58 @@ clean, reliable and scalable digital products.
 
 Have an idea or project?
 
-**[Let's talk →](mailto:kvssanthosh21@gmail.com)**
+<br>
+
+<a href="mailto:kvssanthosh21@gmail.com">
+  <strong>Let's talk →</strong>
+</a>
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/santhosh-merndeveloper/">
-<img
-  src="https://cdn.simpleicons.org/linkedin/0A66C2"
-  width="32"
-  alt="LinkedIn"
-/>
+  <img
+    src="https://cdn.simpleicons.org/linkedin/0A66C2"
+    width="28"
+    height="28"
+    alt="LinkedIn"
+  >
 </a>
+
 &nbsp;&nbsp;
 
 <a href="https://github.com/SSanthosh38">
-<img
-  src="https://cdn.simpleicons.org/github/181717"
-  width="32"
-  alt="GitHub"
-/>
+  <img
+    src="https://cdn.simpleicons.org/github/181717"
+    width="28"
+    height="28"
+    alt="GitHub"
+  >
 </a>
+
 &nbsp;&nbsp;
 
 <a href="mailto:kvssanthosh21@gmail.com">
-<img
-  src="https://cdn.simpleicons.org/gmail/EA4335"
-  width="32"
-  alt="Email"
-/>
+  <img
+    src="https://cdn.simpleicons.org/gmail/EA4335"
+    width="28"
+    height="28"
+    alt="Email"
+  >
 </a>
+
 &nbsp;&nbsp;
 
 <a href="https://www.instagram.com/webnovas/">
-<img
-  src="https://cdn.simpleicons.org/instagram/E4405F"
-  width="32"
-  alt="Instagram"
-/>
+  <img
+    src="https://cdn.simpleicons.org/instagram/E4405F"
+    width="28"
+    height="28"
+    alt="Instagram"
+  >
 </a>
+
+<br><br>
+
+<sub>Santhosh S · Full-Stack Developer</sub>
 
 </div>
