@@ -1,25 +1,3 @@
-<div align="center">
-
-# WEBNOVAS
-
-### Digital Products · Web Apps · SaaS
-
-Building clean, scalable digital solutions for businesses.
-
-<br>
-
-<a href="mailto:kvssanthosh21@gmail.com">
-<img src="https://img.shields.io/badge/START_A_PROJECT-111827?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/SSanthosh38">
-<img src="https://img.shields.io/badge/VIEW_WORK-FFFFFF?style=for-the-badge&logo=github&logoColor=111827">
-</a>
-
-</div>
-
----
-
 ## What I do
 
 <table>
@@ -29,8 +7,9 @@ Building clean, scalable digital solutions for businesses.
 
 ### Web Development
 
-Modern responsive  
-web applications
+Modern, responsive  
+web applications built  
+for real users.
 
 </td>
 
@@ -38,8 +17,9 @@ web applications
 
 ### SaaS & MVP
 
-Ideas → Products  
-Built to scale
+From idea to product,  
+built with scalability  
+in mind.
 
 </td>
 
@@ -48,7 +28,8 @@ Built to scale
 ### Business Solutions
 
 Custom software  
-for real problems
+designed around  
+real business needs.
 
 </td>
 
@@ -57,59 +38,44 @@ for real problems
 
 ---
 
-## Selected Work
-
-<img src="./assets/my-holiday-tours.png" width="100%" alt="My Holiday Tours">
-
-### My Holiday Tours
-
-**Travel & Tourism Web Platform**
-
-React · Node.js · Express · MongoDB
-
-<a href="YOUR_LIVE_PROJECT_URL">Live Project →</a>
-&nbsp; · &nbsp;
-<a href="YOUR_GITHUB_REPOSITORY_URL">Source Code →</a>
-
----
-
-## Technology
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,postgres,docker,aws,git,github,figma">
-</p>
-
----
-
-## About
+## Why work with me
 
 <table>
 <tr>
 
 <td width="25%" align="center">
 
-<img src="./assets/profile.png" width="150">
+### TRUST
 
-**Santhosh S**
-
-Full-Stack Developer
-
-Chennai, India
+Clear communication  
+and transparent work.
 
 </td>
 
-<td width="75%">
+<td width="25%" align="center">
 
-I build modern web applications, SaaS products
-and business-focused digital solutions.
+### QUALITY
 
-Currently focused on:
+Clean, maintainable  
+and reliable code.
 
-**MERN · Next.js · System Design · Docker · Cloud**
+</td>
 
-Open to:
+<td width="25%" align="center">
 
-**Freelance · Startup Projects · Full-Time Opportunities**
+### SCALABILITY
+
+Built with future  
+growth in mind.
+
+</td>
+
+<td width="25%" align="center">
+
+### SUPPORT
+
+Long-term thinking  
+beyond the launch.
 
 </td>
 
@@ -118,28 +84,41 @@ Open to:
 
 ---
 
+## Built for the future
+
+I don't just build for today.
+
+I focus on creating **clean, scalable and maintainable
+solutions** that can evolve as your business grows.
+
+**Start small → Build right → Improve → Scale**
+
+---
+
+## My approach
+
+**Understand** → **Design** → **Build** → **Launch** → **Improve**
+
+Simple process.  
+Clear communication.  
+Long-term results.
+
+---
+
+## Open to
+
+**Freelance Projects** · **Startup Collaboration** · **Business Solutions**
+
+---
+
 <div align="center">
 
-# Have a project in mind?
+### Have a project in mind?
 
-Let's build something useful.
-
-<br>
+**Let's build something that can grow with your business.**
 
 <a href="mailto:kvssanthosh21@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT_ME-DC2626?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/START_A_PROJECT-111827?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/santhosh-merndeveloper/">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="https://www.instagram.com/webnovas/">Webnovas</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/SSanthosh38">GitHub</a>
-
-<br><br>
-
-**WEBNOVAS · Digital Products & Web Solutions**
 
 </div>
