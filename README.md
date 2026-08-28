@@ -21,7 +21,7 @@
 
 <a href="https://www.linkedin.com/in/santhosh-merndeveloper/">
   <img
-    src="https://cdn.simpleicons.org/linkedin/0A66C2"
+    src="https://img.icons8.com/fluency/48/linkedin.png"
     width="42"
     height="42"
     alt="LinkedIn"
