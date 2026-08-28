@@ -1,167 +1,165 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Build%20With%20Santhosh&fontAlign=50&fontAlignY=40&fontSize=42&fontColor=111827&color=F3F4F6&animation=fadeIn" width="100%"/>
+
 <br>
 
-# BUILT WITH SANTHOSH
+# Santhosh S
 
-### Full-Stack Developer · Web Apps · SaaS · Business Solutions
+### Full-Stack Developer
 
-**I build clean, scalable digital products for modern businesses.**
+**Building modern web apps, SaaS products & digital solutions.**
 
 <br>
 
 <a href="mailto:kvssanthosh21@gmail.com">
-<img src="https://img.shields.io/badge/START_A_PROJECT-111827?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Available_for_Freelance-111827?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
 &nbsp;
+
 <a href="https://github.com/SSanthosh38">
-<img src="https://img.shields.io/badge/VIEW_MY_WORK-FFFFFF?style=for-the-badge&logo=github&logoColor=111827">
+<img src="https://img.shields.io/badge/Explore_My_Work-FFFFFF?style=for-the-badge&logo=github&logoColor=111827">
 </a>
 
 <br><br>
 
-📍 Chennai, India
+<img src="https://komarev.com/ghpvc/?username=SSanthosh38&label=Profile%20Views&color=9CA3AF&style=flat-square">
 
 </div>
 
 ---
 
+<div align="center">
+
+## I BUILD DIGITAL PRODUCTS
+## THAT SOLVE REAL PROBLEMS.
+
+<br>
+
+**Web Applications** &nbsp; · &nbsp;
+**SaaS Products** &nbsp; · &nbsp;
+**Business Solutions**
+
+</div>
+
+<br>
+
+---
+
 ## What I do
 
-<table>
-<tr>
+<div align="center">
 
-<td width="33%" align="center">
+### ◦ Web Development
 
-### Web Development
+Modern and responsive web applications
+built for real users and businesses.
 
-Modern, responsive  
-web applications built  
-for real users.
+<br>
 
-</td>
+### ◦ SaaS & MVP Development
 
-<td width="33%" align="center">
+From product idea to scalable MVP,
+with future growth in mind.
 
-### SaaS & MVP
+<br>
 
-From idea to product,  
-built with scalability  
-in mind.
+### ◦ Business Solutions
 
-</td>
+Custom software designed around
+real business requirements.
 
-<td width="33%" align="center">
-
-### Business Solutions
-
-Custom software  
-designed around  
-real business needs.
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
 ## Why work with me
 
-<table>
-<tr>
+<div align="center">
 
-<td width="25%" align="center">
+**TRUST**  
+Clear communication · Transparent work
 
-### TRUST
+<br><br>
 
-Clear communication  
-and transparent work.
+**QUALITY**  
+Clean · Maintainable · Reliable
 
-</td>
+<br><br>
 
-<td width="25%" align="center">
+**SCALABILITY**  
+Built today · Ready for tomorrow
 
-### QUALITY
+<br><br>
 
-Clean, maintainable  
-and reliable code.
+**LONG-TERM THINKING**  
+Support beyond the initial launch
 
-</td>
-
-<td width="25%" align="center">
-
-### SCALABILITY
-
-Built with future  
-growth in mind.
-
-</td>
-
-<td width="25%" align="center">
-
-### SUPPORT
-
-Long-term thinking  
-beyond the launch.
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
 ## Selected Work
 
-### My Holiday Tours
+<div align="center">
 
 <img src="./assets/my-holiday-tours.png"
-     width="100%"
+     width="92%"
      alt="My Holiday Tours">
 
-**Travel & Tourism Web Platform**
+<br><br>
 
-A modern web application designed to deliver
-a clean and responsive digital experience
-for the travel and tourism industry.
+# My Holiday Tours
 
-**Built with**
+### Travel & Tourism Web Platform
 
-`React` · `Node.js` · `Express.js` · `MongoDB`
-
-**Focus**
-
-- Responsive user experience
-- Clean component architecture
-- REST API integration
-- Business-focused workflow
-- Scalable application structure
+A clean and responsive digital experience
+built for the travel and tourism industry.
 
 <br>
 
+`React` &nbsp; `Node.js` &nbsp; `Express.js` &nbsp; `MongoDB`
+
+<br><br>
+
 <a href="YOUR_LIVE_PROJECT_URL">
-<img src="https://img.shields.io/badge/LIVE_PROJECT-111827?style=for-the-badge">
+<img src="https://img.shields.io/badge/Live_Project-111827?style=flat-square">
 </a>
 
 &nbsp;
 
 <a href="YOUR_GITHUB_REPOSITORY_URL">
-<img src="https://img.shields.io/badge/SOURCE_CODE-FFFFFF?style=for-the-badge&logo=github&logoColor=111827">
+<img src="https://img.shields.io/badge/Source_Code-FFFFFF?style=flat-square&logo=github&logoColor=111827">
 </a>
+
+</div>
 
 ---
 
 ## Built for the future
 
-I don't just build for today.
-
-I focus on creating **clean, scalable and maintainable
-solutions** that can evolve as a business grows.
-
 <div align="center">
 
-**Start Small → Build Right → Improve → Scale**
+### START SMALL
+
+↓
+
+### BUILD RIGHT
+
+↓
+
+### IMPROVE
+
+↓
+
+### SCALE
+
+<br>
+
+**Clean architecture.  
+Better performance.  
+Long-term maintainability.**
 
 </div>
 
@@ -169,134 +167,70 @@ solutions** that can evolve as a business grows.
 
 ## My approach
 
-<table>
-<tr>
+<div align="center">
 
-<td align="center" width="20%">
+| 01 | 02 | 03 | 04 | 05 |
+|:--:|:--:|:--:|:--:|:--:|
+| **Understand** | **Design** | **Build** | **Launch** | **Improve** |
+| Problem | UX | Product | Deploy | Scale |
 
-### 01
-
-**UNDERSTAND**
-
-Business  
-requirements
-
-</td>
-
-<td align="center" width="20%">
-
-### 02
-
-**DESIGN**
-
-UX &  
-architecture
-
-</td>
-
-<td align="center" width="20%">
-
-### 03
-
-**BUILD**
-
-Clean &  
-reliable code
-
-</td>
-
-<td align="center" width="20%">
-
-### 04
-
-**LAUNCH**
-
-Test &  
-deploy
-
-</td>
-
-<td align="center" width="20%">
-
-### 05
-
-**IMPROVE**
-
-Optimize &  
-scale
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
 ## Technology
 
-<p align="left">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,aws,gcp,linux,git,github,figma">
 
-</p>
+</div>
 
 ---
 
 ## About me
 
-<table>
-<tr>
-
-<td width="25%" align="center">
+<div align="center">
 
 <img src="./assets/profile.png"
-     width="150"
+     width="130"
      alt="Santhosh S">
 
-### Santhosh S
+<br>
 
-**Full-Stack Developer**
+# Santhosh S
 
-Chennai, India
+### Full-Stack Developer · Chennai, India
 
-</td>
+<br>
 
-<td width="75%" valign="top">
+I build modern web applications, SaaS products
+and business-focused digital solutions.
 
-I'm a Full-Stack Developer focused on building
-modern web applications, SaaS products and
-business-focused digital solutions.
+<br>
 
-I care about building products that are:
+**MERN** · **Next.js** · **System Design**
+· **Docker** · **Cloud**
 
-- Clean
-- Reliable
-- Scalable
-- Easy to maintain
-- Focused on real business needs
+<br>
 
-### Currently focused on
+Open to **Freelance Projects · Startup Collaboration · Full-Time Opportunities**
 
-`MERN` · `Next.js` · `System Design` · `Docker` · `Cloud`
-
-### Open to
-
-**Freelance Projects · Startup Collaboration · Full-Time Opportunities**
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
 ## What I believe
 
-> Good software is not just about writing code.
->
+<div align="center">
+
+> **Good software isn't just about code.**
+
 > It's about understanding the problem,
 > building the right solution and creating
 > something that can grow.
+
+</div>
 
 ---
 
@@ -304,26 +238,22 @@ I care about building products that are:
 
 <div align="center">
 
-### Have a project or idea?
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Have%20a%20project%20in%20mind%3F&fontSize=28&fontColor=111827&color=F9FAFB&animation=fadeIn" width="90%"/>
 
-**Let's turn it into a reliable digital product.**
+<br><br>
+
+### Let's turn your idea into a digital product.
 
 <br>
 
 <a href="mailto:kvssanthosh21@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL_ME-DC2626?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Let's_Talk-111827?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 &nbsp;
 
 <a href="https://www.linkedin.com/in/santhosh-merndeveloper/">
-<img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-&nbsp;
-
-<a href="https://www.instagram.com/webnovas/">
-<img src="https://img.shields.io/badge/INSTAGRAM-FFFFFF?style=for-the-badge&logo=instagram&logoColor=111827">
+<img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=111827">
 </a>
 
 <br><br>
@@ -336,9 +266,9 @@ I care about building products that are:
 
 <div align="center">
 
-## BUILT WITH SANTHOSH
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=F3F4F6" width="100%"/>
 
-### Digital Products · Web Applications · SaaS
+### BUILT WITH SANTHOSH
 
 **Think · Build · Improve · Scale**
 
@@ -349,7 +279,5 @@ I care about building products that are:
 <a href="https://www.linkedin.com/in/santhosh-merndeveloper/">LinkedIn</a>
 &nbsp; · &nbsp;
 <a href="https://www.instagram.com/webnovas/">Instagram</a>
-
-<br><br>
 
 </div>
