@@ -11,11 +11,9 @@
 
 # Santhosh S
 
-### Full-Stack Developer
+### MERN Stack Developer | React · Node.js · MongoDB
 
-<p>
-  Building modern <strong>Web Apps · SaaS · Digital Products</strong>
-</p>
+### World Web Apps | Freelance & Full-time
 
 <br>
 
@@ -61,7 +59,7 @@
 <br><br>
 
 <sub>
-  📍 Chennai, India &nbsp; · &nbsp; Available for Freelance
+  📍 Chennai, Tamil Nadu, India &nbsp; · &nbsp; Available for Freelance
 </sub>
 
 <br><br>
