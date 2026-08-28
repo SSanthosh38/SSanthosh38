@@ -2,11 +2,11 @@
 
 <br>
 
-# WEBNOVAS
+# BUILT WITH SANTHOSH
 
-### Digital Products · Web Applications · SaaS
+### Full-Stack Developer · Web Apps · SaaS · Business Solutions
 
-**Building clean, scalable digital solutions for modern businesses.**
+**I build clean, scalable digital products for modern businesses.**
 
 <br>
 
@@ -116,13 +116,15 @@ beyond the launch.
 
 ### My Holiday Tours
 
-<img src="./assets/my-holiday-tours.png" width="100%" alt="My Holiday Tours">
+<img src="./assets/my-holiday-tours.png"
+     width="100%"
+     alt="My Holiday Tours">
 
 **Travel & Tourism Web Platform**
 
-A modern web application designed to present
-travel experiences and business offerings
-with a clean and responsive user experience.
+A modern web application designed to deliver
+a clean and responsive digital experience
+for the travel and tourism industry.
 
 **Built with**
 
@@ -141,7 +143,9 @@ with a clean and responsive user experience.
 <a href="YOUR_LIVE_PROJECT_URL">
 <img src="https://img.shields.io/badge/LIVE_PROJECT-111827?style=for-the-badge">
 </a>
+
 &nbsp;
+
 <a href="YOUR_GITHUB_REPOSITORY_URL">
 <img src="https://img.shields.io/badge/SOURCE_CODE-FFFFFF?style=for-the-badge&logo=github&logoColor=111827">
 </a>
@@ -230,8 +234,10 @@ scale
 
 ## Technology
 
-<p>
+<p align="left">
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,aws,gcp,linux,git,github,figma">
+
 </p>
 
 ---
@@ -243,7 +249,9 @@ scale
 
 <td width="25%" align="center">
 
-<img src="./assets/profile.png" width="150" alt="Santhosh S">
+<img src="./assets/profile.png"
+     width="150"
+     alt="Santhosh S">
 
 ### Santhosh S
 
@@ -255,20 +263,21 @@ Chennai, India
 
 <td width="75%" valign="top">
 
-I build modern web applications, SaaS products
-and business-focused digital solutions.
+I'm a Full-Stack Developer focused on building
+modern web applications, SaaS products and
+business-focused digital solutions.
 
-My focus is on creating products that are:
+I care about building products that are:
 
 - Clean
 - Reliable
 - Scalable
 - Easy to maintain
-- Built around real business needs
+- Focused on real business needs
 
 ### Currently focused on
 
-`MERN Stack` · `Next.js` · `System Design` · `Docker` · `Cloud`
+`MERN` · `Next.js` · `System Design` · `Docker` · `Cloud`
 
 ### Open to
 
@@ -283,8 +292,8 @@ My focus is on creating products that are:
 
 ## What I believe
 
-> Good software is not only about writing code.
->  
+> Good software is not just about writing code.
+>
 > It's about understanding the problem,
 > building the right solution and creating
 > something that can grow.
@@ -314,7 +323,7 @@ My focus is on creating products that are:
 &nbsp;
 
 <a href="https://www.instagram.com/webnovas/">
-<img src="https://img.shields.io/badge/WEBNOVAS-FFFFFF?style=for-the-badge&logo=instagram&logoColor=111827">
+<img src="https://img.shields.io/badge/INSTAGRAM-FFFFFF?style=for-the-badge&logo=instagram&logoColor=111827">
 </a>
 
 <br><br>
@@ -327,7 +336,7 @@ My focus is on creating products that are:
 
 <div align="center">
 
-## WEBNOVAS
+## BUILT WITH SANTHOSH
 
 ### Digital Products · Web Applications · SaaS
 
