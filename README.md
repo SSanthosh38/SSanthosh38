@@ -1,262 +1,294 @@
-<!-- ========================================================= -->
-<!--                    WEBNOVAS README                         -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img src="./assets/webnovas-banner.png" alt="Webnovas" width="100%"/>
+# WEBNOVAS
 
-<br/>
+### Digital Products · Web Applications · SaaS Solutions
 
-# SANthosh S
+**We build digital products that solve real business problems.**
 
-### Full-Stack Developer · SaaS · Web Applications · Digital Solutions
-
-<p>
-  Building modern digital products that solve real business problems.
-</p>
-
-<br/>
+<br>
 
 <a href="https://github.com/SSanthosh38">
-  <img src="https://img.shields.io/badge/GitHub-SSanthosh38-111111?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VIEW_GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/santhosh-merndeveloper/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/webnovas/">
-  <img src="https://img.shields.io/badge/Webnovas-Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/LET'S_CONNECT-DC2626?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
 
-<br/>
+<br>
 
 ---
 
-# 01 — ABOUT
+# BUILDING DIGITAL PRODUCTS
+# THAT MOVE BUSINESSES FORWARD.
 
-## We build digital products.
+Webnovas is a digital product studio focused on building
+**modern web applications, SaaS products and custom business solutions.**
 
-I'm **Santhosh**, a Full-Stack Developer focused on building scalable,
-modern and user-focused web applications.
+We combine **design, technology and business thinking**
+to create products that are useful, scalable and easy to maintain.
 
-Through **Webnovas**, I work on digital solutions for startups,
-businesses and individuals — from idea and design to development
-and deployment.
+<br>
 
-> **Think. Design. Build. Scale.**
+<div align="center">
 
-<br/>
+### WHAT WE BUILD
+
+`WEB APPS` &nbsp;&nbsp; `SAAS` &nbsp;&nbsp; `BUSINESS SOFTWARE`
+  
+`DASHBOARDS` &nbsp;&nbsp; `E-COMMERCE` &nbsp;&nbsp; `BOOKING SYSTEMS`
+
+</div>
+
+<br>
 
 ---
 
-# 02 — WHAT I DO
+# WHAT WE DO
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### WEB DEVELOPMENT
+## 01 — WEB DEVELOPMENT
 
-Modern, responsive and high-performance
-web applications built for real users.
+Modern and responsive websites and
+web applications designed for real users.
 
-**Focus**
+**We work with**
 
-- Full-Stack Applications
-- Responsive Web Apps
-- Business Websites
+- React
+- Next.js
+- Node.js
+- Express.js
 - REST APIs
-- Authentication Systems
 
 </td>
 
 <td width="50%" valign="top">
 
-### SAAS & MVP DEVELOPMENT
+## 02 — SAAS DEVELOPMENT
 
-Turning product ideas into functional,
-scalable and production-ready applications.
+From product idea to a working,
+scalable SaaS application.
 
-**Focus**
+**We build**
 
-- SaaS Products
-- MVP Development
+- MVPs
 - Dashboards
-- Role-Based Systems
-- Business Platforms
+- Authentication
+- Role-based systems
+- Subscription platforms
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### UI / UX
+## 03 — BUSINESS SOLUTIONS
 
-Clean interfaces designed around usability,
-clarity and conversion.
+Custom applications designed around
+the actual workflow of a business.
 
-**Focus**
+**Examples**
 
-- UI Development
-- Responsive Design
-- Design Systems
-- Figma to Code
-- User Experience
+- Management systems
+- Booking platforms
+- Internal tools
+- Business automation
+- Customer portals
 
 </td>
 
 <td width="50%" valign="top">
 
-### BUSINESS SOLUTIONS
+## 04 — UI / UX DEVELOPMENT
 
-Custom software designed to simplify
-business operations and workflows.
+Clean interfaces focused on usability,
+clarity and responsive experiences.
 
-**Focus**
+**We create**
 
-- Booking Systems
-- Management Platforms
-- E-commerce
-- Automation
-- Internal Tools
+- Responsive interfaces
+- Figma to code
+- Design systems
+- Component-based UI
+- Mobile-first experiences
 
 </td>
+
 </tr>
 </table>
 
-<br/>
+<br>
 
 ---
 
-# 03 — SELECTED WORK
+# SELECTED WORK
 
-## Real projects. Real problems. Practical solutions.
+### PROJECTS BUILT FOR REAL-WORLD USE
 
-<br/>
+<br>
 
-### MY HOLIDAY TOURS
+## MY HOLIDAY TOURS
 
-<img src="./assets/my-holiday-tours.png" alt="My Holiday Tours" width="100%"/>
+<img src="./assets/my-holiday-tours.png" width="100%" alt="My Holiday Tours Project">
 
-**Travel & Tourism Platform**
+### Travel & Tourism Platform
 
-A modern web experience for showcasing holiday
-packages and providing a smooth customer journey.
+A modern travel platform designed to showcase
+holiday packages and provide a smooth customer experience.
 
-**Built with**
+**Technology**
 
-`React` · `Node.js` · `Express` · `MongoDB`
+`React` · `Node.js` · `Express.js` · `MongoDB`
 
-**What I focused on**
+**Highlights**
 
 - Responsive user experience
+- Modern UI
+- API-driven architecture
 - Reusable components
-- API integration
-- Business-focused UI
-- Scalable application structure
+- Business-focused workflow
 
-<br/>
+<br>
+
+<div align="left">
 
 <a href="YOUR_LIVE_PROJECT_URL">
-  <img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-DC2626?style=for-the-badge" />
 </a>
+
+&nbsp;
 
 <a href="YOUR_GITHUB_REPOSITORY_URL">
-  <img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-111111?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/>
-<br/>
+</div>
+
+<br>
+<br>
 
 ---
 
-### MORE WORK
+## MORE PROJECTS
 
 <table>
 <tr>
-<td width="50%">
 
-<img src="./assets/project-02.png" alt="Project 02" width="100%"/>
+<td width="50%" valign="top">
+
+<img src="./assets/project-02.png" width="100%" alt="Project 2">
 
 ### PROJECT TWO
 
-Business-focused web application.
+Business-focused web application
+built to simplify a real-world workflow.
 
 `React` · `Node.js` · `MongoDB`
 
-<a href="YOUR_PROJECT_URL">
-View Project →
-</a>
+**View Case Study →**
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<img src="./assets/project-03.png" alt="Project 03" width="100%"/>
+<img src="./assets/project-03.png" width="100%" alt="Project 3">
 
 ### PROJECT THREE
 
-Modern digital product built for scalability.
+Modern digital product focused on
+performance and usability.
 
 `Next.js` · `Node.js` · `PostgreSQL`
 
-<a href="YOUR_PROJECT_URL">
-View Project →
-</a>
+**View Case Study →**
 
 </td>
+
 </tr>
 </table>
 
-<br/>
+<br>
 
 ---
 
-# 04 — HOW I WORK
+# HOW WE WORK
 
-### 01 — DISCOVER
+<table>
+<tr>
 
-Understand the business, users,
-requirements and goals.
+<td align="center" width="20%">
 
-↓
+### 01
 
-### 02 — DESIGN
+**DISCOVER**
 
-Plan the experience, architecture
-and technical direction.
+Understand the
+business and goals.
 
-↓
+</td>
 
-### 03 — BUILD
+<td align="center" width="20%">
 
-Develop clean, maintainable and
-scalable software.
+### 02
 
-↓
+**PLAN**
 
-### 04 — LAUNCH
+Define features,
+UX and architecture.
 
-Deploy, test, optimize and prepare
-the product for real users.
+</td>
 
-↓
+<td align="center" width="20%">
 
-### 05 — IMPROVE
+### 03
 
-Iterate based on feedback,
-performance and business needs.
+**DESIGN**
 
-<br/>
+Create a clear,
+usable experience.
+
+</td>
+
+<td align="center" width="20%">
+
+### 04
+
+**BUILD**
+
+Develop and test
+the product.
+
+</td>
+
+<td align="center" width="20%">
+
+### 05
+
+**LAUNCH**
+
+Deploy, improve
+and scale.
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 ---
 
-# 05 — TECHNOLOGY
-
-## Tools I use to build.
+# TECHNOLOGY
 
 ### FRONTEND
 
@@ -288,188 +320,179 @@ performance and business needs.
 <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
-<br/>
+<br>
 
 ---
 
-# 06 — CURRENTLY FOCUSED ON
+# INDUSTRIES
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### TRAVEL
+
+Tourism · Booking · Hospitality
+
+</td>
+
+<td align="center" width="25%">
+
+### E-COMMERCE
+
+Stores · Products · Payments
+
+</td>
+
+<td align="center" width="25%">
+
+### STARTUPS
+
+MVPs · SaaS · Product Development
+
+</td>
+
+<td align="center" width="25%">
+
+### BUSINESS
+
+Automation · Dashboards · Management
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+# WHY WEBNOVAS?
+
+### BUSINESS FIRST
+
+We focus on the problem before
+choosing the technology.
+
+### MODERN DEVELOPMENT
+
+Modern frameworks and development
+practices for maintainable products.
+
+### SCALABLE ARCHITECTURE
+
+Applications are structured with
+future growth in mind.
+
+### CLEAN EXPERIENCE
+
+Simple interfaces that are easy
+for users to understand.
+
+### LONG-TERM THINKING
+
+The goal is not just to launch —
+it's to build something that can grow.
+
+<br>
+
+---
+
+# CURRENTLY EXPLORING
 
 <table>
 <tr>
 <td>🏗️</td>
 <td><strong>System Design</strong></td>
-<td>Designing scalable application architectures</td>
+<td>Scalable application architecture</td>
 </tr>
 
 <tr>
 <td>🐳</td>
 <td><strong>Docker</strong></td>
-<td>Containerization and deployment workflows</td>
+<td>Containerization and deployment</td>
 </tr>
 
 <tr>
 <td>⚡</td>
 <td><strong>Next.js</strong></td>
-<td>Modern full-stack React applications</td>
+<td>Modern full-stack applications</td>
 </tr>
 
 <tr>
 <td>📈</td>
 <td><strong>Performance</strong></td>
-<td>Building faster and more efficient applications</td>
+<td>Optimization and scalability</td>
 </tr>
 
 <tr>
 <td>☁️</td>
 <td><strong>Cloud</strong></td>
-<td>Deployment and scalable infrastructure</td>
+<td>Deployment and infrastructure</td>
 </tr>
 </table>
 
-<br/>
+<br>
 
 ---
 
-# 07 — WHY WORK WITH ME
+# WORK WITH US
 
-### BUSINESS FIRST
+## HAVE A PROJECT IN MIND?
 
-Technology should solve a problem,
-not create another one.
+Whether you're launching a startup,
+building an MVP or improving an existing
+business — let's discuss what we can build.
 
-### CLEAN DEVELOPMENT
-
-Readable, maintainable and structured
-code for long-term growth.
-
-### SCALABLE THINKING
-
-Applications designed with future
-users and features in mind.
-
-### DIRECT COMMUNICATION
-
-Clear communication throughout
-the development process.
-
-### CONTINUOUS IMPROVEMENT
-
-Build → Measure → Learn → Improve.
-
-<br/>
-
----
-
-# 08 — AVAILABLE FOR
+<br>
 
 <div align="center">
 
-### FREELANCE PROJECTS
+<a href="mailto:kvssanthosh21@gmail.com">
+  <img src="https://img.shields.io/badge/START_A_PROJECT-DC2626?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-Websites · Web Applications · SaaS · Dashboards
+&nbsp;
 
-### STARTUP COLLABORATIONS
-
-MVPs · Product Development · Technical Solutions
-
-### FULL-TIME OPPORTUNITIES
-
-Full-Stack Development · Software Engineering
+<a href="https://www.linkedin.com/in/santhosh-merndeveloper/">
+  <img src="https://img.shields.io/badge/CONTACT_SANthOSH-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
-<br/>
+<br>
 
 ---
 
-# 09 — WEBNOVAS
-
 <div align="center">
-
-<img src="./assets/webnovas-logo.png" alt="Webnovas" width="120"/>
 
 # WEBNOVAS
 
 ### Digital Products & Web Solutions
 
-**We build.**
+**Think. Design. Build. Scale.**
 
-Webnovas is focused on creating modern digital
-experiences and practical software solutions
-for businesses and growing brands.
-
-<br/>
+<br>
 
 <a href="https://www.instagram.com/webnovas/">
-  <img src="https://img.shields.io/badge/Instagram-FOLLOW_US-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
+  Instagram
 </a>
 
-</div>
-
-<br/>
-
----
-
-# 10 — LET'S BUILD
-
-<div align="center">
-
-## Have an idea?
-
-### Let's turn it into something real.
-
-Whether you're building a startup,
-launching a new product or improving
-an existing business — let's talk.
-
-<br/>
-
-<a href="mailto:kvssanthosh21@gmail.com">
-  <img src="https://img.shields.io/badge/START_A_PROJECT-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/santhosh-merndeveloper/">
-  <img src="https://img.shields.io/badge/LET'S_CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
----
-
-# CONNECT
-
-<div align="center">
+&nbsp;&nbsp; · &nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/santhosh-merndeveloper/">
   LinkedIn
 </a>
-&nbsp;&nbsp; · &nbsp;&nbsp;
 
-<a href="https://www.instagram.com/webnovas/">
-  Webnovas
-</a>
 &nbsp;&nbsp; · &nbsp;&nbsp;
 
 <a href="mailto:kvssanthosh21@gmail.com">
   Email
 </a>
 
-<br/><br/>
+<br><br>
 
 **Chennai, India 🇮🇳**
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### BUILDING DIGITAL PRODUCTS. SOLVING REAL PROBLEMS.
-
-**© Santhosh S · Webnovas**
 
 </div>
