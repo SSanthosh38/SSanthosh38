@@ -1,221 +1,475 @@
-<h1 align="center">Hi 👋, I'm Santhosh S</h1>
+<!-- ========================================================= -->
+<!--                    WEBNOVAS README                         -->
+<!-- ========================================================= -->
 
-<h3 align="center">
-  Full-Stack Developer | MERN Stack | SaaS | Business Applications
-</h3>
+<div align="center">
 
-<p align="center">
-  I build scalable, reliable and user-focused web applications for startups, businesses and clients.
+<img src="./assets/webnovas-banner.png" alt="Webnovas" width="100%"/>
+
+<br/>
+
+# SANthosh S
+
+### Full-Stack Developer · SaaS · Web Applications · Digital Solutions
+
+<p>
+  Building modern digital products that solve real business problems.
 </p>
+
+<br/>
+
+<a href="https://github.com/SSanthosh38">
+  <img src="https://img.shields.io/badge/GitHub-SSanthosh38-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/santhosh-merndeveloper/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/webnovas/">
+  <img src="https://img.shields.io/badge/Webnovas-Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
 
 ---
 
-## 👨‍💻 About Me
+# 01 — ABOUT
 
-- 🚀 Full-Stack Developer focused on building **scalable web applications**
-- 💻 Experienced with the **MERN stack and REST APIs**
-- 🏗️ Interested in **SaaS products, business applications and real-world solutions**
-- 🧠 Currently improving my skills in **System Design, Docker and Next.js**
-- 🤝 Open to **freelance projects, collaborations and full-time opportunities**
-- 📍 Based in **Chennai, India**
+## We build digital products.
 
----
+I'm **Santhosh**, a Full-Stack Developer focused on building scalable,
+modern and user-focused web applications.
 
-## 🚀 What I Build
+Through **Webnovas**, I work on digital solutions for startups,
+businesses and individuals — from idea and design to development
+and deployment.
 
-- 🌐 Full-Stack Web Applications
-- 🚀 SaaS Products & MVPs
-- 📊 Admin Dashboards
-- 🛒 E-commerce Platforms
-- 📅 Booking & Management Systems
-- 🔐 Authentication & Role-Based Systems
-- ⚙️ REST APIs & Backend Services
-- 🏢 Business Automation Solutions
+> **Think. Design. Build. Scale.**
+
+<br/>
 
 ---
 
-## 🛠️ Tech Stack
+# 02 — WHAT I DO
 
-### Frontend
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
-  </a>
-  <a href="https://www.w3schools.com/css/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  </a>
-  <a href="https://react.dev/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
-  </a>
-  <a href="https://nextjs.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
-  </a>
-</p>
+### WEB DEVELOPMENT
 
-### Backend
+Modern, responsive and high-performance
+web applications built for real users.
 
-<p align="left">
-  <a href="https://nodejs.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
-  </a>
-  <a href="https://expressjs.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
-  </a>
-</p>
+**Focus**
 
-### Databases
+- Full-Stack Applications
+- Responsive Web Apps
+- Business Websites
+- REST APIs
+- Authentication Systems
 
-<p align="left">
-  <a href="https://www.mongodb.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
-  </a>
-</p>
+</td>
 
-### Tools & Cloud
+<td width="50%" valign="top">
 
-<p align="left">
-  <a href="https://git-scm.com/">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  </a>
-  <a href="https://www.docker.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
-  </a>
-  <a href="https://aws.amazon.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
-  </a>
-  <a href="https://cloud.google.com/">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="Google Cloud"/>
-  </a>
-  <a href="https://www.linux.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  </a>
-  <a href="https://www.figma.com/">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
-  </a>
-</p>
+### SAAS & MVP DEVELOPMENT
 
----
+Turning product ideas into functional,
+scalable and production-ready applications.
 
-## ⭐ Featured Projects
+**Focus**
 
-### 🚀 My Holiday Tours
-
-A full-stack travel platform designed to provide a smooth experience for discovering and managing holiday packages.
-
-**Focus:** Real-world business application, responsive UI and scalable architecture.
-
-🔗 **Live Demo:** Add your live URL here  
-🔗 **Repository:** Add your repository URL here
-
----
-
-### 💼 More Projects
-
-I'm continuously building and improving real-world applications focused on:
-
-- SaaS
-- Business management
-- Booking systems
+- SaaS Products
+- MVP Development
 - Dashboards
-- APIs
+- Role-Based Systems
+- Business Platforms
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### UI / UX
+
+Clean interfaces designed around usability,
+clarity and conversion.
+
+**Focus**
+
+- UI Development
+- Responsive Design
+- Design Systems
+- Figma to Code
+- User Experience
+
+</td>
+
+<td width="50%" valign="top">
+
+### BUSINESS SOLUTIONS
+
+Custom software designed to simplify
+business operations and workflows.
+
+**Focus**
+
+- Booking Systems
+- Management Platforms
+- E-commerce
 - Automation
+- Internal Tools
 
-👉 Check out my repositories for more projects.
+</td>
+</tr>
+</table>
 
----
-
-## 💼 Freelance Services
-
-I help startups, businesses and individuals turn ideas into functional web products.
-
-**I can help with:**
-
-- 🌐 Website & Web Application Development
-- 🚀 MVP & SaaS Development
-- 📊 Admin Dashboard Development
-- 🛒 E-commerce Development
-- 📅 Booking & Management Platforms
-- 🔌 REST API Development
-- 🔐 Authentication & Authorization
-- 🐳 Docker & Deployment
-
-📩 **Have a project in mind? Let's build it together.**
+<br/>
 
 ---
 
-## 📚 Currently Learning
+# 03 — SELECTED WORK
 
-- 🏗️ System Design
-- 🐳 Docker & Containerization
-- ⚡ Next.js
-- 📈 Application Performance & Scalability
-- ☁️ Cloud & Deployment
+## Real projects. Real problems. Practical solutions.
+
+<br/>
+
+### MY HOLIDAY TOURS
+
+<img src="./assets/my-holiday-tours.png" alt="My Holiday Tours" width="100%"/>
+
+**Travel & Tourism Platform**
+
+A modern web experience for showcasing holiday
+packages and providing a smooth customer journey.
+
+**Built with**
+
+`React` · `Node.js` · `Express` · `MongoDB`
+
+**What I focused on**
+
+- Responsive user experience
+- Reusable components
+- API integration
+- Business-focused UI
+- Scalable application structure
+
+<br/>
+
+<a href="YOUR_LIVE_PROJECT_URL">
+  <img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-111111?style=for-the-badge" />
+</a>
+
+<a href="YOUR_GITHUB_REPOSITORY_URL">
+  <img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/>
+<br/>
 
 ---
 
-## 🤝 Open To
+### MORE WORK
 
-- 💼 Full-Time Opportunities
-- 💻 Freelance Projects
-- 🚀 Startup & Founder Collaborations
-- 🌍 Open-Source Projects
-- 🤝 Developer Collaborations
+<table>
+<tr>
+<td width="50%">
+
+<img src="./assets/project-02.png" alt="Project 02" width="100%"/>
+
+### PROJECT TWO
+
+Business-focused web application.
+
+`React` · `Node.js` · `MongoDB`
+
+<a href="YOUR_PROJECT_URL">
+View Project →
+</a>
+
+</td>
+
+<td width="50%">
+
+<img src="./assets/project-03.png" alt="Project 03" width="100%"/>
+
+### PROJECT THREE
+
+Modern digital product built for scalability.
+
+`Next.js` · `Node.js` · `PostgreSQL`
+
+<a href="YOUR_PROJECT_URL">
+View Project →
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-## 📫 Connect With Me
+# 04 — HOW I WORK
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/santhosh-merndeveloper/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="LinkedIn"
-         height="30"
-         width="40"/>
-  </a>
+### 01 — DISCOVER
 
-  <a href="https://www.instagram.com/webnovas/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-         alt="Webnovas Instagram"
-         height="30"
-         width="40"/>
-  </a>
+Understand the business, users,
+requirements and goals.
+
+↓
+
+### 02 — DESIGN
+
+Plan the experience, architecture
+and technical direction.
+
+↓
+
+### 03 — BUILD
+
+Develop clean, maintainable and
+scalable software.
+
+↓
+
+### 04 — LAUNCH
+
+Deploy, test, optimize and prepare
+the product for real users.
+
+↓
+
+### 05 — IMPROVE
+
+Iterate based on feedback,
+performance and business needs.
+
+<br/>
+
+---
+
+# 05 — TECHNOLOGY
+
+## Tools I use to build.
+
+### FRONTEND
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
 </p>
 
-📧 **Email:** kvssanthosh21@gmail.com
+### BACKEND
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### DATABASE
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### DEVOPS & CLOUD
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux,git,github" />
+</p>
+
+### DESIGN
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+<br/>
 
 ---
 
-## 📊 GitHub Stats
+# 06 — CURRENTLY FOCUSED ON
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssanthosh38&show_icons=true&hide_border=true&count_private=true"
-       alt="Santhosh's GitHub Stats"/>
-</p>
+<table>
+<tr>
+<td>🏗️</td>
+<td><strong>System Design</strong></td>
+<td>Designing scalable application architectures</td>
+</tr>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssanthosh38&layout=compact&hide_border=true"
-       alt="Santhosh's Top Languages"/>
-</p>
+<tr>
+<td>🐳</td>
+<td><strong>Docker</strong></td>
+<td>Containerization and deployment workflows</td>
+</tr>
+
+<tr>
+<td>⚡</td>
+<td><strong>Next.js</strong></td>
+<td>Modern full-stack React applications</td>
+</tr>
+
+<tr>
+<td>📈</td>
+<td><strong>Performance</strong></td>
+<td>Building faster and more efficient applications</td>
+</tr>
+
+<tr>
+<td>☁️</td>
+<td><strong>Cloud</strong></td>
+<td>Deployment and scalable infrastructure</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-<h3 align="center">
-  🚀 Building products. Solving problems. Learning continuously.
-</h3>
+# 07 — WHY WORK WITH ME
 
-<p align="center">
-  <b>Let's build something meaningful.</b>
-</p>
+### BUSINESS FIRST
+
+Technology should solve a problem,
+not create another one.
+
+### CLEAN DEVELOPMENT
+
+Readable, maintainable and structured
+code for long-term growth.
+
+### SCALABLE THINKING
+
+Applications designed with future
+users and features in mind.
+
+### DIRECT COMMUNICATION
+
+Clear communication throughout
+the development process.
+
+### CONTINUOUS IMPROVEMENT
+
+Build → Measure → Learn → Improve.
+
+<br/>
+
+---
+
+# 08 — AVAILABLE FOR
+
+<div align="center">
+
+### FREELANCE PROJECTS
+
+Websites · Web Applications · SaaS · Dashboards
+
+### STARTUP COLLABORATIONS
+
+MVPs · Product Development · Technical Solutions
+
+### FULL-TIME OPPORTUNITIES
+
+Full-Stack Development · Software Engineering
+
+</div>
+
+<br/>
+
+---
+
+# 09 — WEBNOVAS
+
+<div align="center">
+
+<img src="./assets/webnovas-logo.png" alt="Webnovas" width="120"/>
+
+# WEBNOVAS
+
+### Digital Products & Web Solutions
+
+**We build.**
+
+Webnovas is focused on creating modern digital
+experiences and practical software solutions
+for businesses and growing brands.
+
+<br/>
+
+<a href="https://www.instagram.com/webnovas/">
+  <img src="https://img.shields.io/badge/Instagram-FOLLOW_US-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+# 10 — LET'S BUILD
+
+<div align="center">
+
+## Have an idea?
+
+### Let's turn it into something real.
+
+Whether you're building a startup,
+launching a new product or improving
+an existing business — let's talk.
+
+<br/>
+
+<a href="mailto:kvssanthosh21@gmail.com">
+  <img src="https://img.shields.io/badge/START_A_PROJECT-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/santhosh-merndeveloper/">
+  <img src="https://img.shields.io/badge/LET'S_CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+# CONNECT
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/santhosh-merndeveloper/">
+  LinkedIn
+</a>
+&nbsp;&nbsp; · &nbsp;&nbsp;
+
+<a href="https://www.instagram.com/webnovas/">
+  Webnovas
+</a>
+&nbsp;&nbsp; · &nbsp;&nbsp;
+
+<a href="mailto:kvssanthosh21@gmail.com">
+  Email
+</a>
+
+<br/><br/>
+
+**Chennai, India 🇮🇳**
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### BUILDING DIGITAL PRODUCTS. SOLVING REAL PROBLEMS.
+
+**© Santhosh S · Webnovas**
+
+</div>
