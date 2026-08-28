@@ -53,13 +53,9 @@ clean, reliable and scalable digital products.
 
 ## Currently
 
-**Building with**
+**Building:** `MERN` · `Next.js` · `Node.js` · `MongoDB`
 
-`MERN` · `Next.js` · `Node.js` · `MongoDB`
-
-**Learning**
-
-`System Design` · `Docker` · `Cloud`
+**Learning:** `System Design` · `Docker` · `Cloud`
 
 ---
 
@@ -69,20 +65,14 @@ clean, reliable and scalable digital products.
 
 Have an idea or project?
 
-<a href="mailto:kvssanthosh21@gmail.com">
-<strong>Let's talk →</strong>
-</a>
+**[Let's talk →](mailto:kvssanthosh21@gmail.com)**
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/santhosh-merndeveloper/">LinkedIn</a>
 &nbsp;·&nbsp;
 <a href="https://github.com/SSanthosh38">GitHub</a>
 &nbsp;·&nbsp;
 <a href="https://www.instagram.com/webnovas/">Instagram</a>
-
-<br><br>
-
-<sub>Build With Santhosh</sub>
 
 </div>
