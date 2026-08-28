@@ -1,14 +1,6 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&height=170&text=SANthosh%20S&fontSize=42&fontColor=111827&color=F5F7FA&animation=fadeIn"
-  width="100%"
-  alt="Santhosh S Banner"
-/>
-
-<br>
-
-<img
   src="./assets/profile.png"
   width="125"
   height="125"
