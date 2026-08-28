@@ -41,35 +41,11 @@ clean, reliable and scalable digital products.
 
 ---
 
-## Featured Project
-
-<div align="center">
-
-<img src="./assets/my-holiday-tours.png"
-     width="92%"
-     alt="My Holiday Tours">
-
-### My Holiday Tours
-
-Travel & Tourism Web Platform
-
-`React` · `Node.js` · `Express.js` · `MongoDB`
-
-<br>
-
-<a href="YOUR_LIVE_PROJECT_URL">Live Project →</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="YOUR_GITHUB_REPOSITORY_URL">Source Code →</a>
-
-</div>
-
----
-
 ## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,aws,git,github,figma">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,aws,gcp,linux,git,github,figma">
 
 </div>
 
@@ -77,17 +53,21 @@ Travel & Tourism Web Platform
 
 ## Currently
 
-Learning and building with:
+**Building with**
 
-**MERN · Next.js · System Design · Docker · Cloud**
+`MERN` · `Next.js` · `Node.js` · `MongoDB`
+
+**Learning**
+
+`System Design` · `Docker` · `Cloud`
 
 ---
 
-## Let's Work Together
-
 <div align="center">
 
-**Have an idea or project?**
+## Let's Work Together
+
+Have an idea or project?
 
 <a href="mailto:kvssanthosh21@gmail.com">
 <strong>Let's talk →</strong>
